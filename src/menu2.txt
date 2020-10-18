@@ -1,0 +1,49 @@
+Soup
+mushroom
+200 25 Mushrooms, potatoes, onions, salt, pepper, water
+Salad
+Spring
+75 15 Cucumbers, onions, cabbage, carrot, salt, papers
+Drink
+Martini
+400 7 vodka, vermouth, jin, ice
+Snack
+Chips
+150 3 Potatoes, salt, paprika, oil
+Snack
+Chocolate
+50 20 Cacao beans, sugar, coffee beans
+Drink
+Vodka
+35 5 Alcohol, water, ice
+Drink
+Beer
+50 2 Hop, salt
+Soup
+Pumpkin
+200 45 Pumpkin, cheese, salt, paper, beef
+Salad
+Vegetable
+350 15 Cucumbers tomatoes dill pepper salt oil
+Soup
+Cream
+500 45 Shrimp cheese cream salt dill
+Snacks
+Snickers
+45 2 Nougat sugar nuts
+Snacks
+Toast
+90 15 Bread garlic salt pepper cheese
+Soup
+Fish
+450 50 Trout, cream, fish oil, oil, salt
+Drink
+Rum
+500 3 Alcohol, additive, ice
+Drink
+Ruff
+400 2 Vodka, beer
+Drink
+Wine
+630 3 grape, alcohol
+
